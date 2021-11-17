@@ -2,15 +2,6 @@
 
 
 ![Animação-1](https://user-images.githubusercontent.com/94154381/142076968-6ea282d0-2207-43ab-8317-72119a2f9a52.gif)
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
   
 <h2> Status: <h4> Finalizado</h4></h2>
 
@@ -38,7 +29,19 @@
   
   As seguintes ferramentas foram usadas na construção do projeto:
   
-  <div style="display: inline-block"><br>
-    <img align="center" alt="John-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="John-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="John-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  - HTML5
+  - CSS3
+  - JAVASCRIPT
+   
+   ### Autor
+   ---
+   
+   <img src="https://avatars.githubusercontent.com/u/94154381?v=4" sstyle="border-radius: 50%;" width="100px" alt=""/><br>
+   <sub><b>Johnatan Barbosa🚀</b></sub>
+   
+   Espero que goste, entre em contato!
+   
+  <a href="https://www.instagram.com/johnatan_park/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:barbosajohnatan99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/johnatan-barbosa-de-brito-7845631ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "https://api.whatsapp.com/send?phone=5561992608982"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>

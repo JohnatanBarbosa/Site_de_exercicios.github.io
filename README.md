@@ -36,7 +36,7 @@
    ### Autor
    ---
    
-   <img src="https://avatars.githubusercontent.com/u/94154381?v=4" sstyle="border-radius: 50%;" width="100px" alt=""/><br>
+   <img src="https://avatars.githubusercontent.com/u/94154381?v=4" width="100px" alt=""/><br>
    <sub><b>Johnatan Barbosa🚀</b></sub>
    
    Espero que goste, entre em contato!

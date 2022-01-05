@@ -1,8 +1,4 @@
 /* BARRA DE NAVEGAÇÃO */
-header{
-   position: fixed;
-}
-
 .barra{
     position: relative;
     background-color: rgb(199, 5, 5);
